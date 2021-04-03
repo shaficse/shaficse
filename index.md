@@ -9,6 +9,10 @@
 
 ## Computer Vision
 
+## Miscellaneous
+  [auc-roc-curve](https://medium.com/greyatom/lets-learn-about-auc-roc-curve-4a94b4d88152)
+  
+
 
 
 
