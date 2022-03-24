@@ -1,18 +1,6 @@
 
-## Data Structure and Algorithm
-
-
-
-## Natural Language Processing
-### BERT with Hugging Face
-[towardsdatascience](https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb)
-
-## Computer Vision
-
-## Miscellaneous
-  [auc-roc-curve](https://medium.com/greyatom/lets-learn-about-auc-roc-curve-4a94b4d88152)
-  
-
+# Music Generation with RNN
+  (https://github.com/shaficse/music_generation_rnn.git)
 
 
 
